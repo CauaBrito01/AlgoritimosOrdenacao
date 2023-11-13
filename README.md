@@ -19,3 +19,14 @@ Clone o repositório.
 Execute o programa principal (Main.java) para testar os algoritmos de ordenação.
 A saída exibe feedback visual a cada iteração.
 O array final após a aplicação dos algoritmos é impresso no final.
+
+BlubbleSort
+![image](https://github.com/CauaBrito01/AlgoritimosOrdenacao/assets/102918321/8ef8273e-2884-49b5-af7d-fb56d397f656)
+
+InsertionSort
+![image](https://github.com/CauaBrito01/AlgoritimosOrdenacao/assets/102918321/62948427-c859-497c-95f8-8d2cd53da0a8)
+
+QuickSort
+![image](https://github.com/CauaBrito01/AlgoritimosOrdenacao/assets/102918321/c2613b6b-2dd1-4418-a448-ef407dbeeb90)
+
+
