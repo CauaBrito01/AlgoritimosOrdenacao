@@ -1,3 +1,4 @@
+//o valor do pivot usado foi o ultimo elemento do array 28
 public class QuickSort {
 
     public static void sort(int[] arr) {
